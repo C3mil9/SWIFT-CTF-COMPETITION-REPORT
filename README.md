@@ -173,11 +173,5 @@ Document flags, fixes, and lessons learned
 
 This material is for authorized labs, competitions, and systems you own or are explicitly permitted to test. Do not scan, capture credentials from, access, or change systems outside the defined scope of an event.
 
-## Future Improvements
 
-- Add sanitized screenshots of dashboards and service health checks
-- Add a timestamped change log from the competition
-- Add redacted command output from each VM
-- Test the defense kit on disposable Linux and Windows lab machines
-- Add a post-event scoring analysis if the official score breakdown becomes available
 
